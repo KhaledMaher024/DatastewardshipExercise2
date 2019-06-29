@@ -1,0 +1,75 @@
+{
+  "dmp": {
+    "title": "The relationship between family income in the United States and child mortality - Detailed DMP",
+    "description": "The resulting relationship is one of the most important objectives of the project. The relationship is to increase the family income in the United States with a decrease in the death rate of children aged 1 to 19 years from 1953 to 2015. In conclusion, this relationship can be confirmed in the future if household income increases. It can be applied to other countries",
+    "created": "2019-04-10T10:10:23+00:00",
+    "modified": "2019-02-22T15:10:56+00:00",
+     "dmp_id": {
+        "dmp_id": "https://doi.org/10.5281/zenodo.3202667",
+        "dmp_id_type": "HTTP-ZENODO"
+      },
+    
+    "contact": {
+      "mail": "rameatalah@gmail.com",
+      "name": "Rami Attaallah",
+      "contact_id": {
+        "contact_id": "https://orcid.org/0000-0001-5713-8164",
+        "contact_id_type": "HTTP-ORCID"
+      }
+    },
+    "language": "en",
+    "ethical_issues_exist": "no",
+    "dataset": [
+      {
+        "title": "Child mortality rates and household income",
+        "description": "Data showing The relationship between the data set of family income in the United States and the death rate among children aged 1-19 years 1953 to 2015",
+        "type": "document",
+        "issued": "2019-06-30T10:10:23+00:00",
+        "personal_data": "no",
+        "sensitive_data": "no",
+        "dataset_id": {
+          "dataset_id": "https://doi.org/10.5281/zenodo.3202940",
+          "dataset_id_type": "DOI-RAW"
+        },
+        "keyword":"family income , child mortality , United States , datasets ",
+        "metadata": [
+        {
+        "description":"Family income is a documented data set in the United States of America and The death rate of children is the death rate of children of 100,000 children in the United States, aged 1 to 19 years",
+        "language":"en",
+        "metadata_id": 
+              {
+                "metadata_id": "https://github.com/rame1997/The-relationship-between-family-income-in-the-United-States-and-child-mortality/blob/master/documentation/metadata.xml",
+                "metadata_id_type": "HTTP-GITHUB"
+              }
+            
+        }
+        ],
+        "distribution": [
+          {
+            "title": "Raw data",
+            "description": "CSV file showing Child mortality rates in the United States and the proportion of family income from 1953 to 2015",
+            "format": "integar/csv",
+            "byteSize": "1228.8",
+            "data_access": "open",
+            "access_url": "https://doi.org/10.5281/zenodo.3202940",
+            "download_url": "https://doi.org/10.5281/zenodo.3202940",
+            "license": [
+              {
+                "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+                "start_date": "2019-06-30T10:10:23+00:00"
+              }
+            ],
+            "available_till": "2024-06-30T10:10:23+00:00",
+            "host": {
+              "title": "ZenodoRepository",
+              "description": "It was hosted on the site Zenodo",
+              "supports_versioning": "yes",
+              "backup_frequency": "weekly",             
+              "availability": "99"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
